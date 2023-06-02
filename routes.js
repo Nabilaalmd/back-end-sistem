@@ -10,7 +10,7 @@ const routes = [
     method: "GET",
     path: "/",
     handler: (request, h) => {
-      return "Homepage 2023";
+      return "Homepage perubahan dari praktikum 4 ci/cd 2023";
     },
   },
   {
